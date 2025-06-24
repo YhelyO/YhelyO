@@ -1,15 +1,11 @@
 ### Hi there 👋
-- 👋 I'm Yhely Orgad
-- 🌱 I’m currently a 4th year EE student at BIU, Israel. 
-- 💬 I'm studying in the tracks: Nano Electronics and VLSI Circuits, and Communication.
-- 📫 Yhely.Orgad@gmail.com
-
-<!--
-**YhelyO/YhelyO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👋 I'm Yhely Orgad
+🎓 Electrical Engineering graduate from BIU, Israel
+🔬 Specialized in Nanoelectronics, VLSI Circuits, and Communication
+💻 3+ years of experience in Digital Design
+📝 Focused on RTL design, SystemVerilog coding, and simulation of large-scale digital architectures
+🧰 Tools: Vivado, Synplify, ModelSim, VCS, Verdi, Xcelium
+✅ Formal Verification expertise
+🖥️ Environment: Git, Linux
+📊 Scripting & Automation: MATLAB, various programming languages
+📫 yhely.orgad@gmail.com
