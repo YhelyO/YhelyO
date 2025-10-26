@@ -5,13 +5,11 @@
 
 🔬 Specialized in Nanoelectronics, VLSI Circuits, and Communication
 
-💻 3+ years of experience in Digital Design
+💻 3+ years of experience in Digital Design @ IDF
 
 📝 Focused on RTL design, SystemVerilog coding, and simulation of large-scale digital architectures
 
 🧰 Tools: Vivado, Synplify, ModelSim, VCS, Verdi, Xcelium
-
-✅ Formal Verification expertise
 
 🖥️ Environment: Git, Linux
 
